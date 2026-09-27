@@ -1,0 +1,9 @@
+[project]
+name = "fastapi-backend"
+version = "0.1.0"
+description = "Backend API with authentication, session management, and credential validation"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+]
